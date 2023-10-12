@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://github.com/dcpedit/midevil/assets/800930/b377696a-f6c3-4ea8-bcae-02e4c34f0f71" />
+  <img width="300" src="https://github.com/dcpedit/midevil/assets/800930/4bfd5823-df2a-4c18-b056-a8f137908670" />
 </p>
 
 # MidEvil Keyboard
@@ -12,8 +12,10 @@ The MidEvil layout is a spin-off of [NoPunIn10Did's Jabberwocky keyboard](https:
 
 [Video of working LCD display](https://youtube.com/shorts/0m6KOO1_2bI)
 
-<img width="600" src="https://github.com/dcpedit/midevil/assets/800930/9e303a6d-ccf6-4c96-9f11-2477bee89c89" />
-<img width="600" src="https://github.com/dcpedit/midevil/assets/800930/aaf7cab2-8d8a-4723-8807-a5c55e920234" />
+
+<img width="600" src="https://github.com/dcpedit/midevil/assets/800930/4c9ed22e-2058-478e-86d4-d0328ce30bf2" />
+<img width="600" src="https://github.com/dcpedit/midevil/assets/800930/d27a6905-97bb-446e-9c1f-f2a4682264af" />
+
 
 ## Build Notes
 
