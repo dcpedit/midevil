@@ -1,6 +1,6 @@
 {
   "name": "MidEvil",
-  "vendorId": "0xDC0E",
+  "vendorId": "0xDC9E",
   "productId": "0x177E",
   "matrix": {"rows": 10, "cols": 10},
   "layouts": {
